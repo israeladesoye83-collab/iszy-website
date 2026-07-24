@@ -198,3 +198,16 @@ font-size:18px;
 .card:hover{
     transform:translateY(-10px);
 }
+.btn{
+    background:#00c3ff;
+    color:white;
+    padding:16px 40px;
+    border-radius:50px;
+    text-decoration:none;
+    font-weight:bold;
+    transition:.3s;
+}
+
+.btn:hover{
+    background:#0095d9;
+}
